@@ -5,7 +5,7 @@ import azure.functions as func
 
 # sample request
 # {"prompt": "pikachu running", "n": 1, "size": "1024x1024"}
-secret_key = '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'
+secret_key = <Your-OpenAI-API-Key>
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
     logging.info('Python HTTP trigger function processed a request.')
