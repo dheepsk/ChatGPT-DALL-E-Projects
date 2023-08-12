@@ -1,3 +1,3 @@
 # ChatGPT-DALL-E-Templates
 
-I created Chat-GPT and DALL-E prompt templates to integrate into various frameworks, like Microsoft Power Apps, Bubble, Outlook, and more! 
+This branch refers to the overarching files that are required to run the files in the other branches.
